@@ -29,5 +29,5 @@ g++ TSP.cpp
 
 ## Input & Output
 
-**Input File:** 
-**Output File:** 
+**Input Instruction:** Code can be configured to accept custom inputs, however for ease of use, I have hard coded a graph.
+
