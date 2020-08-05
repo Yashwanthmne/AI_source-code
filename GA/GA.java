@@ -187,6 +187,8 @@ public class GA {
 
             System.out.println(" FITNESS VALUE:" + population.get(i).fitnessValue);
         }
+        
+        System.out.println("BEST: " + population.get(0).indices);
 
 
 
